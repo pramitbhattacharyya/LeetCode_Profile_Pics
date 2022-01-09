@@ -1,1 +1,9 @@
-This is a test file.
+The year 2021 was a very productive year for me. I am listing down my achievements, success stories and contributions below.
+1. I had around 792 submissions in total. I had attended a lot of contests throughout the year. I reached the highest contest rating of 2309. There were a lot of ups and downs in the rating in the later half of the year, but I was motivated and passionate enough to give my best in every upcoming contests.
+![Stats](https://raw.githubusercontent.com/pramitbhattacharyya/LeetCode_Profile_Pics/main/pramitb/Stats2.jpg)
+2. I got the Guardian badge in the opening months of the year 2021, still continued to attend both the weekly and biweekly contests.  I got all the Monthly Challenge badges till September, but missed the rest 3 months as I forgot to submit the questions for few days in each of those months. I was consistent enough to grab the Annual Badge for continued commitment in solving problems for more than 300 days in 2021, which according to LeetCode, only 0.12% user have received.
+![Badges](https://raw.githubusercontent.com/pramitbhattacharyya/LeetCode_Profile_Pics/main/pramitb/Badges.jpg)
+3. In late November, I bagged two amazing offers from Amazon India and PhonePe for SDE roles and joined Amazon in the month of December. I accumulated decent number of LeetCoins and got some reputations through upvotes for writing solutions posts in the discussion section for contest problems.
+![Profile](https://raw.githubusercontent.com/pramitbhattacharyya/LeetCode_Profile_Pics/main/pramitb/Profile.jpg)
+4. These are some contributions to help the users of LeetCode community. I encourage all to contribute worthy information through discussion posts and payback the community which contributed a lot in our success.
+![Profile](https://raw.githubusercontent.com/pramitbhattacharyya/LeetCode_Profile_Pics/main/pramitb/Contributions.jpg)
